@@ -1,4 +1,4 @@
-👋 Hi, I’m Gunnar,
+👋 Hi, I’m Gunnar!
 
 I am a PhD student inspecting interpretable machine learning through a causal lens.
 
