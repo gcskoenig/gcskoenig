@@ -1,6 +1,6 @@
 👋 Hi, I’m Gunnar!
 
-I am a PhD student inspecting interpretable machine learning through a causal lens.
+I am a PostDoc inspecting interpretable machine learning through a causal lens.
 
 For more details, check out my [website](https://gunnarkoenig.com/).
 
