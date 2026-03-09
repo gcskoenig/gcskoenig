@@ -1,6 +1,6 @@
 👋 Hi, I’m Gunnar!
 
-I am a PostDoc inspecting interpretable machine learning through a causal lens.
+I am a PostDoc inspecting working on explainable AI and causal inference.
 
 For more details, check out my [website](https://gunnarkoenig.com/).
 
